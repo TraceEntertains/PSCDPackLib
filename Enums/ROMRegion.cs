@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PSCDPackPlus.PSCDLib.Enums
+namespace PSCDPackLib.Enums
 {
     /// <summary>
     /// Represents game cartridge region.

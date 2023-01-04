@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PSCDPackPlus.PSCDLib.Enums
+namespace PSCDPackLib.Enums
 {
     /// <summary>
     /// Modes for on-cartridge memory.
