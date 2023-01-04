@@ -1,1 +1,2 @@
-"# PSCDPackLib" 
+# PSCDPackLib
+Library for PSCDPackPlus
